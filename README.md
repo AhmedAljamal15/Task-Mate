@@ -14,7 +14,7 @@ Task Mate is a simple and smart task management application built with Flutter. 
 
 ## 🎥 Demo
 <p align="center">
-  <img src="assets/screenshots/create_new_task.png" width="280" />
+  <img src="assets/screenshots/create_a_new_task.png" width="280" />
   <img src="assets/screenshots/edit_and_delete.png" width="280" />
   <img src="assets/screenshots/home.png" width="280" />
   <img src="assets/screenshots/splash_screen.png" width="280" />
